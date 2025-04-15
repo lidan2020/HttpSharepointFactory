@@ -1,0 +1,2 @@
+# HttpSharepointFactory
+httpSharepoint
